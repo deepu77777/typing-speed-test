@@ -1,11 +1,16 @@
 import time
 import random
 sentences = [
-    "The quick brown fox jumps over the lazy dog.",
-    "Python is a powerful programming language.",
-    "Typing speed tests can improve your skills.",
-    "Always practice to become a better programmer.",
-    "Learning to code is a valuable skill in today's world."
+    "I am currently working on a new project."
+"She is dancing gracefully on stage."
+"They are enjoying their vacation in Hawaii."
+"We are learning to play the guitar."
+"He is studying for his upcoming exams."
+"I‘m not feeling well today."
+"She isn’t attending the party tonight."
+"They‘re not participating in the competition."
+"We aren’t going out for dinner this evening."
+"He‘s not wearing a jacket despite the cold weather."
 ]
 
 def typing_speed_test():
